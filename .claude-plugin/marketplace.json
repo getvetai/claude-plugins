@@ -1,0 +1,23 @@
+{
+  "name": "getvet",
+  "owner": {
+    "name": "Getvet AI",
+    "email": "juanpalacor@getvet.ai"
+  },
+  "description": "Vet — security verification for MCP servers and AI tools (getvet.ai).",
+  "version": "0.4.2",
+  "plugins": [
+    {
+      "name": "vet",
+      "source": "./plugins/vet",
+      "description": "Discover and vet MCP servers: search 200K+ AI tools with security verification and schemas.",
+      "version": "0.4.2",
+      "author": {
+        "name": "Getvet AI",
+        "email": "juanpalacor@getvet.ai"
+      },
+      "category": "security",
+      "tags": ["mcp", "security", "verification", "discovery", "ai-tools"]
+    }
+  ]
+}

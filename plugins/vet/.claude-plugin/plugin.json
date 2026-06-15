@@ -1,0 +1,17 @@
+{
+  "name": "vet",
+  "version": "0.4.2",
+  "description": "Discover and vet MCP servers: search 200K+ AI tools with security verification and schemas. From getvet.ai.",
+  "author": {
+    "name": "Getvet AI",
+    "email": "juanpalacor@getvet.ai"
+  },
+  "homepage": "https://getvet.ai",
+  "keywords": ["mcp", "security", "verification", "discovery", "ai-tools"],
+  "mcpServers": {
+    "vet": {
+      "command": "npx",
+      "args": ["-y", "@getvetai/mcp"]
+    }
+  }
+}
