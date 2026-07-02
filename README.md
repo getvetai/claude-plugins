@@ -1,5 +1,7 @@
 # Vet — Claude Code plugin marketplace
 
+[![Vet Security Report](https://getvet.ai/badge/mcp-ai-getvet-vet.svg)](https://getvet.ai/skill/mcp-ai-getvet-vet)
+
 Security verification for MCP servers and AI tools, from [getvet.ai](https://getvet.ai).
 
 The **vet** plugin bundles the [`@getvetai/mcp`](https://www.npmjs.com/package/@getvetai/mcp)
